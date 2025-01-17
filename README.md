@@ -1,71 +1,41 @@
-**👋 Welcome to My GitHub!**
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Hi there! I’m **Leul Ayfokru**, a passionate Frontend Web Developer and Android App Developer 🚀. I specialize in creating functional, responsive, and user-friendly digital solutions using the latest technologies.
+###
 
-**🌟 About Me**
+<p align="left"> I’m Leul Ayfokru, a passionate Frontend Web Developer and Android App Developer 🚀. I specialize in creating functional, responsive, and user-friendly digital solutions using the latest technologies.</p>
 
+###
 
-🔹 Frontend Expert: I craft beautiful, responsive websites using HTML5, CSS3, JavaScript, and Bootstrap.
+<h2 align="left">About me</h2>
 
+###
 
-🔹 Android Enthusiast: I develop feature-rich mobile apps using Java, Kotlin, and Dart.
+<p align="left">✨ Frontend Expert: I craft beautiful, responsive websites using HTML5, CSS3, JavaScript, and Bootstrap. <br>📚 Android Enthusiast: I develop feature-rich mobile apps using Java, Kotlin, and Dart.<br>🎯 Goals: ...<br>🎲 UI/UX Designer: I design intuitive interfaces with Figma to enhance user experience. <br>🎨 WordPress Customization: I build and manage dynamic websites for various needs.</p>
 
+###
 
-🔹 UI/UX Designer: I design intuitive interfaces with Figma to enhance user experience.
+<h2 align="left">I code and design with</h2>
 
+###
 
-🔹 WordPress Customization: I build and manage dynamic websites for various needs.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="figma logo"  />
+</div>
 
-
-🔹 Cybersecurity Learner: I explore ethical hacking to ensure secure and efficient digital platforms.
-
-
-**🚀 Featured Projects**
-
-
-Here are some of my recent works:
-
-
-**Dessie Special Boarding School Website & App 🏫**
-
-
-A dynamic platform for communication, admissions, and updates.
-
-
-**Portfolio Website 💼**
-
-
-A showcase of my skills, projects, and journey in development.
-
-
-Check out my repositories to explore more of my work!
-
-
-**🔧 Technologies & Tools**
-
-
-Languages: HTML5, CSS3, JavaScript, Java, Kotlin, Dart
-
-
-Frameworks: Bootstrap
-
-
-Design Tools: Figma
-
-
-Platforms: WordPress
-
-
-**📫 Let’s Connect!**
-
-
-Portfolio: https://leul-ayfokru-space.wpkubio.com/my-awesome-site-1/
-
-
-Email: abateisking@gmail.com
-
-
-Feel free to reach out for collaborations, feedback, or just to say hi! 😊
-
-
-💡 “Turning Ideas into Reality with Code, Creativity, and Passion.”
+###
