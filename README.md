@@ -1,3 +1,4 @@
+<div style="background: linear-gradient(135deg, #ffd460, #ff6b6b);  border-radius: 10px;">
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -39,3 +40,4 @@
 </div>
 
 ###
+</div>
