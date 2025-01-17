@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #ffd460, #ff6b6b);  border-radius: 10px;">
+<div align="center" style="background: linear-gradient(135deg, #ffd460, #ff6b6b); padding: 20px;  border-radius: 10px;">
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Frontend Expert: I craft beautiful, responsive websites using HTML5, CSS3, JavaScript, and Bootstrap. <br>📚 Android Enthusiast: I develop feature-rich mobile apps using Java, Kotlin, and Dart.<br>🎯 Goals: ...<br>🎲 UI/UX Designer: I design intuitive interfaces with Figma to enhance user experience. <br>🎨 WordPress Customization: I build and manage dynamic websites for various needs.</p>
+<p align="left">✨ Frontend Expert: I craft beautiful, responsive websites using HTML5, CSS3, JavaScript, and Bootstrap. <br>📚 Android Enthusiast: I develop feature-rich mobile apps using Java, Kotlin, and Dart.<br>🎲 UI/UX Designer: I design intuitive interfaces with Figma to enhance user experience. <br>🎨 WordPress Customization: I build and manage dynamic websites for various needs.</p>
 
 ###
 
@@ -40,4 +40,21 @@
 </div>
 
 ###
+
+<div alig="left" >
+  <h2 align="left">
+    Contact Me
+  </h2>
+
+  <p align="left" >
+  <img src="https://cdn-icons-png.flaticon.com/512/17093/17093634.png" height="40" alt="email logo"  />
+  <img width="12" />
+    abateisking@gmail.com
+  </p>
+  <p align="left" >
+  <img src="https://cdn-icons-png.flaticon.com/512/10473/10473404.png" height="40" alt="phone logo"  />
+  <img width="12" />
+    +251963889227
+  </p>
+</div>
 </div>
