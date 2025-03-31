@@ -14,7 +14,9 @@
 <p align="left">✨ Frontend Expert: I craft beautiful, responsive websites using HTML5, CSS3, JavaScript, and Bootstrap. <br>📚 Android Enthusiast: I develop feature-rich mobile apps using Java, Kotlin, and Dart.<br>🎲 UI/UX Designer: I design intuitive interfaces with Figma to enhance user experience. <br>🎨 WordPress Customization: I build and manage dynamic websites for various needs.</p>
 
 ###
+![Profile views counter](https://komarev.com/ghpvc/?username=akl-leul)
 
+###
 <h2 align="left">I code and design with</h2>
 
 ###
