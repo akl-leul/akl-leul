@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m full stack website and front end application developer<br><br>👯 I’m looking to collaborate on open source web development projects<br><br>🤝 I’m looking for help with advanced algorithms and data structures<br><br>🌱 I’m currently learning flutter<br><br>💬 Ask me about TypeScript, web development, and APIs<br><br>⚡ Fun fact: I enjoy hiking and coding outdoors on weekends
+🔭 I’m full stack website and front end application developer<br><br>👯 I’m looking to collaborate on open source web development projects<br><br>🤝 I’m looking for help with advanced algorithms and data structures<br><br>💬 Ask me about TypeScript, web development, and APIs<br><br>⚡ Fun fact: I enjoy hiking and coding outdoors on weekends
 
 
 ## 🌐 Socials:
